@@ -3,7 +3,7 @@ import instagram from "../images/Instagram_white.png";
 import Linked_in from "../images/LinkedIN_white.png";
 import Mail from "../images/Mail_white.png";
 export default function Navbar() {
-  let width=window.screen.width
+ 
   const handleNavClick = () => {
     const navilist=document.getElementById("felxNavContainer")
     navilist.classList.toggle("active")
@@ -13,7 +13,7 @@ export default function Navbar() {
     const navilist=document.getElementById("felxNavContainer")
   navilist.classList.toggle("active")
   }
-  let clicked = false;
+
   return (
     <div className="Main-NavContainer">
       <div className="Nav-Container" id="felxNavContainer">
@@ -32,19 +32,19 @@ export default function Navbar() {
             href="https://www.linkedin.com/in/uttam-kumar-sahu-090456226/"
             alt="linke_in"
           >
-            <img src={Linked_in} />
+            <img src={Linked_in} alt="img"/>
           </a>
           <a
             href="mailto:sahuu6175@gmail.com"
             alt="mail"
           >
-            <img src={Mail} />
+            <img src={Mail} alt="img"/>
           </a>
           <a
            href="https://www.instagram.com/uttamkumarsahu22/"
            alt="instagram"
           >
-            <img src={instagram} />
+            <img src={instagram} alt="img"/>
           </a>
         </div>
       </div>

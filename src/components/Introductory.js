@@ -53,16 +53,16 @@ export default function Introductory() {
         </div>
         <div className="logos">
           <a href="mailto:sahuu6175@gmail.com" alt="mail">
-            <img src={Mail} />
+            <img src={Mail} alt="img" />
           </a>
           <a
             href="https://www.linkedin.com/in/uttam-kumar-sahu-090456226/"
             alt="linke_in"
           >
-            <img src={Linked_in} />
+            <img src={Linked_in} alt="img"/>
           </a>
           <a href="https://www.instagram.com/uttamkumarsahu22/" alt="instagram">
-            <img src={instagram} />
+            <img src={instagram} alt="img"/>
           </a>
         </div>
         <div className="contacts" id="contact">
