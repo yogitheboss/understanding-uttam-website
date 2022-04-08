@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/understanding-uttam-website/static/css/main.8025de0b.css",
+    "main.js": "/understanding-uttam-website/static/js/main.fd94ad16.js",
+    "static/media/template5.jpg": "/understanding-uttam-website/static/media/template5.84bf094268ded4333ab5.jpg",
+    "static/media/template4.jpg": "/understanding-uttam-website/static/media/template4.499f69e2b165c4529aa5.jpg",
+    "static/media/template2.jpg": "/understanding-uttam-website/static/media/template2.a1352202027fc6646fbf.jpg",
+    "static/media/template3.jpg": "/understanding-uttam-website/static/media/template3.5c97a300055168d8268f.jpg",
+    "static/media/template7.jpg": "/understanding-uttam-website/static/media/template7.3911a429189e6905086c.jpg",
+    "static/media/template1.jpg": "/understanding-uttam-website/static/media/template1.fe8f709ace3be02c6cca.jpg",
+    "static/media/template6.jpg": "/understanding-uttam-website/static/media/template6.2602b9bbb80dccaebdd1.jpg",
+    "static/media/template8.jpg": "/understanding-uttam-website/static/media/template8.0c1fade971df4c28c7eb.jpg",
+    "index.html": "/understanding-uttam-website/index.html",
+    "main.8025de0b.css.map": "/understanding-uttam-website/static/css/main.8025de0b.css.map",
+    "main.fd94ad16.js.map": "/understanding-uttam-website/static/js/main.fd94ad16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8025de0b.css",
+    "static/js/main.fd94ad16.js"
+  ]
+}
